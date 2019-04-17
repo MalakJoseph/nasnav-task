@@ -14,6 +14,7 @@
 
 ### About the Project
 * This is a task from a software company to test my skills before hiring.
+* Mission was to make user able to see his changes on the right side of the page which will be a phone shape.
 * All done using React.
 
 ### Steps to Run The Project
